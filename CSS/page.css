@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d7e5ff;
+}
+
+h1 {
+    color: #862020;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
