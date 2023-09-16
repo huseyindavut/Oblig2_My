@@ -17,3 +17,13 @@ img {
     height: 450px;
     border: 8px solid #9d1178; /* 2 piksel kalınlığında siyah bir border ekler */
 }
+
+.container {
+    text-align: center;
+}
+
+#image {
+    width: 100%;
+    max-width: 500px; /* Resmin maksimum genişliği */
+    transition: width 0.5s; /* Kenar değişimini yumuşatmak için geçiş efekti */
+}
