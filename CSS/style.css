@@ -11,3 +11,9 @@ h1 {
     width: 80%;
     margin: 0 auto;
 }
+
+img {
+    width : 400px;
+    height: 450px;
+    border: 8px solid #9d1178; /* 2 piksel kalınlığında siyah bir border ekler */
+}
