@@ -13,8 +13,8 @@ h1 {
 }
 
 img {
-    width : 400px;
-    height: 450px;
+    width : 600px;
+    height: 750px;
     border: 8px solid #9d1178; /* 2 piksel kalınlığında siyah bir border ekler */
 }
 
@@ -24,6 +24,6 @@ img {
 
 #image {
     width: 100%;
-    max-width: 500px; /* Resmin maksimum genişliği */
+    max-width: 900px; 
     transition: width 0.5s; /* Kenar değişimini yumuşatmak için geçiş efekti */
 }
